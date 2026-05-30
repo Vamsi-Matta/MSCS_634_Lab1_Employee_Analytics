@@ -1,0 +1,16 @@
+Employee_ID,Department,Experience_Years,Training_Hours,Projects_Completed,Performance_Score,Satisfaction_Level,Monthly_Salary
+E101,IT,3,18,5,78,4.1,6200
+E102,HR,5,12,4,72,3.8,5800
+E103,Finance,7,20,6,85,4.4,7600
+E104,Marketing,2,10,3,68,3.5,5400
+E105,IT,6,25,7,90,4.6,8200
+E106,Finance,4,,5,75,4.0,6900
+E107,HR,8,16,6,82,,7100
+E108,Marketing,1,8,2,60,3.2,4800
+E109,IT,9,30,8,94,4.8,9200
+E110,Finance,10,22,7,88,4.5,8800
+E111,HR,3,14,4,70,3.7,5600
+E112,Marketing,6,18,5,80,4.1,6500
+E113,IT,12,35,9,98,4.9,15000
+E114,Finance,5,15,5,77,4.0,7200
+E115,Marketing,4,11,4,73,3.9,6100
